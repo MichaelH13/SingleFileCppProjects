@@ -1,9 +1,8 @@
 //============================================================================
-// Name        : Test.cpp
+// Name        : CountConsonants.cpp
 // Author      : 1825794
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Version     : 1.0
+// Description : Count consonants for given input string through std::cin.
 //============================================================================
 
 #include <iostream>
